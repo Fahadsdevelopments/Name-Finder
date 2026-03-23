@@ -1,0 +1,5 @@
+pdfplumber
+indic-transliteration
+pytesseract
+Pillow
+pymupdf
